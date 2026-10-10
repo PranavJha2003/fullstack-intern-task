@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:5000/api/favorites";
+
+const API_URL = "https://fullstack-intern-task-t9bh.vercel.app/api/favorites";
 
 function getToken() {
   return localStorage.getItem("token");
