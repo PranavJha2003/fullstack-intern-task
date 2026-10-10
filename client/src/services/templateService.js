@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:5000/api/templates";
+const API_URL = "https://fullstack-intern-task-t9bh.vercel.app/api/templates";
 
 export async function fetchTemplates() {
   const response = await fetch(API_URL);
