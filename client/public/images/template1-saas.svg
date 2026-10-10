@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11183f"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="280" rx="20" fill="url(#bg)"/>
+  <rect x="18" y="18" width="604" height="30" rx="8" fill="#ffffff" opacity=".13"/>
+  <circle cx="34" cy="33" r="4" fill="#fca5a5"/><circle cx="48" cy="33" r="4" fill="#fde68a"/><circle cx="62" cy="33" r="4" fill="#86efac"/>
+  <text x="82" y="38" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fff">TEMPLATE STUDIO</text>
+  <text x="32" y="96" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#fff">Build Your Dream Product</text>
+  <text x="32" y="122" font-family="Arial, sans-serif" font-size="13" fill="#fff" opacity=".86">Modern SaaS for growing teams</text>
+  <rect x="32" y="147" width="116" height="32" rx="8" fill="#7c3aed"/>
+  <rect x="32" y="147" width="116" height="32" rx="8" fill="#fff" opacity=".12"/>
+  <text x="50" y="167" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#fff">Explore now ↗</text>
+  
+        <rect x="370" y="76" width="220" height="132" rx="12" fill="#fff" opacity=".96"/>
+        <rect x="388" y="94" width="82" height="10" rx="5" fill="#7c3aed" opacity=".9"/>
+        <rect x="388" y="116" width="174" height="8" rx="4" fill="#cbd5e1"/>
+        <rect x="388" y="132" width="146" height="8" rx="4" fill="#e2e8f0"/>
+        <rect x="388" y="158" width="78" height="34" rx="8" fill="#7c3aed"/>
+        <rect x="480" y="158" width="82" height="34" rx="8" fill="#e9e7ff"/>
+        <circle cx="520" cy="45" r="55" fill="#7c3aed" opacity=".22"/>
+  <text x="32" y="250" font-family="Arial, sans-serif" font-size="11" fill="#fff" opacity=".7">RESPONSIVE WEBSITE CONCEPT</text>
+</svg>
