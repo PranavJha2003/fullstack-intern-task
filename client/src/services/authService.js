@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://fullstack-intern-task-t9bh.vercel.app/api/auth";
 
 export async function registerUser(userData) {
   const response = await fetch(`${API_URL}/register`, {
